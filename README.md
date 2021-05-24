@@ -1,6 +1,6 @@
-# udemy2_app
+# Weekly Expenses App (Flutter)
 
-A new Flutter project.
+A Flutter project to track weekly expenses.
 
 ## Getting Started
 
