@@ -1,4 +1,4 @@
-# Weekly Expenses App (Flutter)
+# Weekly Expenses App (Flutter
 
 A Flutter project to track weekly expenses.
 
